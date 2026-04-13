@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Erfahrener IT-Systemadministrator und Cloud-Infrastruktur-Spezialist mit mehr als 5 Jahren Berufserfahrung in der Administration von VMware-Virtualisierungsumgebungen, Veeam Backup & Replication, Microsoft 365 sowie hybriden Cloud-Infrastrukturen. Nachgewiesene Erfahrung in der Betreuung von 50+ Anwendern und der Automatisierung von IT-Prozessen mit PowerShell und Python.
+Erfahrener IT-Systemadministrator und Cloud-Infrastruktur-Spezialist mit mehr als 6+ Jahren Berufserfahrung in der Administration von VMware-Virtualisierungsumgebungen, Veeam Backup & Replication, Microsoft 365 sowie hybriden Cloud-Infrastrukturen. Nachgewiesene Erfahrung in der Betreuung von 50+ Anwendern und der Automatisierung von IT-Prozessen mit PowerShell und Python.
 
 - 🏢 Working at **RP Solutions GmbH** in **Mainz, Deutschland**
 - 💬 Ask me about **VMware administration, cloud infrastructure management, and IT process automation.**
