@@ -30,7 +30,7 @@ I build cloud software and I run it. I have 5 years of full stack development (R
 | [**Cloud Security Lab**](https://github.com/manicharan0485/cloud-security-lab.) | A security-hardened stack from Terraform to Kubernetes to Docker, with the reasoning written next to the code | Terraform · EKS · Docker |
 | [**Full Stack Task Manager**](https://github.com/manicharan0485/Manicharan_Ravi_42201715_PSE_P3_S1) | React app with an Express REST API, JWT login and MongoDB | React · Node.js · MongoDB |
 | [**K8s Secure Deployment**](https://github.com/manicharan0485/k8s-secure-deployment) | Secure-by-default Helm charts: RBAC, network policies, OPA Gatekeeper, Trivy in CI | Kubernetes · Helm · GitHub Actions |
-| [**Cloud Infrastructure: AWS & Azure**](https://github.com/manicharan0485/cloud-infrastructure-aws-azure) | Terraform for both clouds with Jenkins and GitHub Actions pipelines | Terraform · AWS · Azure |
+| [**Cloud Infrastructure: AWS & Azure**](https://github.com/manicharan0485/cloud-infrastructure-aws-azure) | Terraform for both clouds with a Jenkins deployment pipeline | Terraform · AWS · Azure · Jenkins |
 | [**Azure & M365 Admin Scripts**](https://github.com/manicharan0485/Azure-m365-admin-scripts) | Automation for Entra ID, Intune, licensing, SharePoint and Exchange | PowerShell · Python · Graph API |
 | [**Backup Automation**](https://github.com/manicharan0485/backup-automation-scripts) | RDS snapshot checks, restore tests, CloudWatch alerts and daily reports | Python · Bash · Terraform |
 
